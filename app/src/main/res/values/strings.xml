@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Kickstarter</string>
+
+    <string name="amt_pledge">AMT PLEDGE</string>
+    <string name="sno">SNO.</string>
+    <string name="num_backers">NUM BACKERS</string>
+    <string name="sort">SORT</string>
+
+</resources>
